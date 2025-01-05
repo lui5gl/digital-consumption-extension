@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "Digital Consumption Monitor",
+  "description": "Monitors your website usage and allows you to set limits to encourage healthier browsing habits. Focused on privacy and open-source, it provides detailed statistics on the time you spend on various websites, helping you take control of your online time and use technology in a conscious and balanced way.",
+  "version": "0.1",
+  "icons": {
+    "16": "images/icon-16.png",
+    "32": "images/icon-32.png",
+    "48": "images/icon-48.png",
+    "128": "images/icon-128.png"
+  },
+  "action": {
+    "default_popup": "popup/popup.html"
+  }
+}
