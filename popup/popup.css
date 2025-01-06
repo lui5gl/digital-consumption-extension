@@ -1,4 +1,10 @@
+@import url("https://fonts.googleapis.com/css2?family=Geist:wght@100..900&display=swap");
+
 body {
-  width: 500px;
+  background-color: #fafafa;
+  font-family: "Geist", sans-serif;
   padding: 25px;
+  width: 500px;
+  display: flex;
+  flex-direction: column;
 }
